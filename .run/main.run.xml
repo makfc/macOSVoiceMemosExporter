@@ -14,7 +14,7 @@
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-    <option name="PARAMETERS" value="--all --date_in_name --date_in_name_format &quot;%Y-%m-%d_%H-%M-%S&quot; -e &quot;~/Library/Mobile Documents/com~apple~CloudDocs/Voice Memos Export&quot;" />
+    <option name="PARAMETERS" value="--all --date_in_name --date_in_name_format &quot;%Y-%m-%d_%H-%M-%S&quot; -e &quot;~/Library/CloudStorage/OneDrive-個人/Voice Memos Export&quot;" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />
     <option name="MODULE_MODE" value="false" />

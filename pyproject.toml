@@ -1,0 +1,9 @@
+[project]
+name = "macosvoicememosexporter"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "pytz>=2025.2",
+    "tzlocal>=5.3.1",
+]
